@@ -1,0 +1,6 @@
+./build/test.exe
+
+test/TestGPIO.c:8:test_TheFirst:IGNORE: Implement Me
+-----------------------
+1 Tests 0 Failures 1 Ignored
+OK
